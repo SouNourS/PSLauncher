@@ -2,7 +2,7 @@
 <psforever>
   <network name="PSEmulator" url="http://psforever.net" location="EU FR">
     <server namespace="PSFPLS" id="login0">
-      <address version="hostname">play.psforever.net</address>
+      <address version="hostname">62.210.250.199</address>
       <port>51000</port>
     </server>
   </network>
